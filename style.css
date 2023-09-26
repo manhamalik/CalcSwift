@@ -79,7 +79,7 @@ header img {
 .download a {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #4c9cfa;
     color: #fff;
     text-decoration: none;
     font-weight: bold;
@@ -88,7 +88,7 @@ header img {
 }
 
 .download a:hover {
-    background-color: #0056b3;
+    background-color: #007bff;
 }
 
 .gif {
